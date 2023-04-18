@@ -1,0 +1,8 @@
+#digimon-list{
+    height: 350px; 
+    overflow-y: scroll;
+}
+
+#card{
+    width: 18rem;
+}
